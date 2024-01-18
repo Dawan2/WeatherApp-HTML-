@@ -2,6 +2,10 @@
 
 This is a simple web application that provides weather information for a specified city. It utilizes the OpenWeatherMap API for weather data and the GeoNames API for city suggestions.
 
+<div align="center">
+  <img src="https://github.com/Dawan2/WeatherApp-HTML-/blob/main/weatherapp.png" alt="Image 1" width="800"/>
+</div>
+
 ## Features
 
 - **Weather Information:** Get real-time weather information for a specified city, including temperature, description, humidity, wind speed, and more.
